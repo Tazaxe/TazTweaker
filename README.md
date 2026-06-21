@@ -12,5 +12,3 @@
 - 🧠 Ajustes de CPU, RAM y procesos
 - 🧹 Limpieza y reducción de procesos innecesarios
 - 🎨 Personalización del sistema
-
----
