@@ -14,10 +14,3 @@
 - 🎨 Personalización del sistema
 
 ---
-
-## 📸 Vista previa
-
-*(Aquí puedes agregar imágenes de tu programa)*
-
-```md
-![preview](images/preview.png)
