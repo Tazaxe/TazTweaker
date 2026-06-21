@@ -1,2 +1,23 @@
-# TazTweaker
-Taz Tweaker is a Windows optimization and customization tool designed to improve system performance, unlock advanced settings, and enhance user control over their PC experience.
+# 🚀 Taz Tweaker
+
+**Taz Tweaker** es una herramienta de optimización y personalización para Windows diseñada para mejorar el rendimiento del sistema, aplicar tweaks avanzados y permitir un mayor control del usuario sobre su PC.
+
+---
+
+## ⚡ Características
+
+- 🔧 Optimización del rendimiento del sistema
+- 🚀 Tweaks avanzados de Windows
+- 🎮 Mejora de FPS en juegos
+- 🧠 Ajustes de CPU, RAM y procesos
+- 🧹 Limpieza y reducción de procesos innecesarios
+- 🎨 Personalización del sistema
+
+---
+
+## 📸 Vista previa
+
+*(Aquí puedes agregar imágenes de tu programa)*
+
+```md
+![preview](images/preview.png)
